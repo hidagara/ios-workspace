@@ -22,6 +22,10 @@ struct ContentView: View {
                 Text("Item at \(item.timestamp!, formatter: itemFormatter)")
             }
             .onDelete(perform: deleteItems)
+            
+            Image("colors-icon")
+                .resizable()
+                .frame(width: 60, height: 60)
         }
         .toolbar {
             #if os(iOS)
@@ -31,6 +35,8 @@ struct ContentView: View {
             Button(action: addItem) {
                 Label("Add Item", systemImage: "plus")
             }
+        }.onAppear {
+            addItem()
         }
     }
 
