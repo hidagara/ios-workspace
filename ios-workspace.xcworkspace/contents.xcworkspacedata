@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:disciplinator/disciplinator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:bank-app/bank-app.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Apple-Learn-List.playground">
    </FileRef>
    <Group
