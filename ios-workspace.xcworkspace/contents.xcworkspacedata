@@ -9,9 +9,6 @@
       name = "WWDC Examples">
    </Group>
    <FileRef
-      location = "group:Assets">
-   </FileRef>
-   <FileRef
       location = "group:UIKit-animations-practice/UIKit-animations-practice.xcodeproj">
    </FileRef>
 </Workspace>
