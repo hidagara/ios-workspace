@@ -6,7 +6,7 @@
    </FileRef>
    <Group
       location = "container:"
-      name = "WWDC">
+      name = "WWDC Examples">
    </Group>
    <FileRef
       location = "group:Assets">

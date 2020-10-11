@@ -1,8 +1,5 @@
 /*:
-# Apple Software Developer Roadmap
- 
- 
- 
+# iOS Developer Roadmap
  
  
 */
