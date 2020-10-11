@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Swift Features.playground">
+   </FileRef>
+   <FileRef
       location = "group:Apple-Learn-List.playground">
    </FileRef>
    <Group
