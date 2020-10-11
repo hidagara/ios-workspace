@@ -2,21 +2,8 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:disciplinator/disciplinator.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:bank-app/bank-app.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:Apple-Learn-List.playground">
    </FileRef>
-   <Group
-      location = "container:"
-      name = "Swift_Changes">
-      <FileRef
-         location = "group:Swift5.3_Changes.playground">
-      </FileRef>
-   </Group>
    <Group
       location = "container:"
       name = "WWDC">
@@ -26,8 +13,5 @@
    </FileRef>
    <FileRef
       location = "group:UIKit-animations-practice/UIKit-animations-practice.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:wallet-app/wallet-app.xcodeproj">
    </FileRef>
 </Workspace>

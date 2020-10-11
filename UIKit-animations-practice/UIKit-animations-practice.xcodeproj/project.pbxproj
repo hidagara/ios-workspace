@@ -101,10 +101,11 @@
 		9F1C5C08251B67CF00E8A7A4 /* UIKit-animations-practice */ = {
 			isa = PBXGroup;
 			children = (
+				9F937C6E2533576F00FBB77C /* App Layer */,
+				9F937C6A2533567800FBB77C /* UI Layer */,
 				9F1C5C09251B67CF00E8A7A4 /* AppDelegate.swift */,
 				9F1C5C0B251B67CF00E8A7A4 /* SceneDelegate.swift */,
 				9F1C5C0D251B67CF00E8A7A4 /* ViewController.swift */,
-				9F1C5C0F251B67CF00E8A7A4 /* Main.storyboard */,
 				9F1C5C15251B67D100E8A7A4 /* Assets.xcassets */,
 				9F1C5C17251B67D100E8A7A4 /* LaunchScreen.storyboard */,
 				9F1C5C1A251B67D100E8A7A4 /* Info.plist */,
@@ -129,6 +130,21 @@
 				9F1C5C30251B67D200E8A7A4 /* Info.plist */,
 			);
 			path = "UIKit-animations-practiceUITests";
+			sourceTree = "<group>";
+		};
+		9F937C6A2533567800FBB77C /* UI Layer */ = {
+			isa = PBXGroup;
+			children = (
+				9F1C5C0F251B67CF00E8A7A4 /* Main.storyboard */,
+			);
+			path = "UI Layer";
+			sourceTree = "<group>";
+		};
+		9F937C6E2533576F00FBB77C /* App Layer */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "App Layer";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
